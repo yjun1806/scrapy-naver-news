@@ -1,1 +1,2 @@
-# scrapy-naver-news
+# Scrapy를 이용한 네이버 뉴스 기사 크롤러
+
